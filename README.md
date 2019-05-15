@@ -1,7 +1,8 @@
 # MIXProject
 VR Zoo game developed in Unity
 
-#References:
+#References:  
+
 Animals:
 https://assetstore.unity.com/packages/3d/characters/animals/golden-tiger-55797
 https://assetstore.unity.com/packages/3d/characters/animals/iguana-57458 
@@ -9,7 +10,8 @@ https://assetstore.unity.com/packages/3d/characters/animals/rhino-cartoon-63658
 https://assetstore.unity.com/packages/3d/vegetation/trees/mobile-tree-package-18866
 https://www.youtube.com/watch?v=8_zTQsYFwf0&t
 
-Environment:
+Environment:  
+
 https://assetstore.unity.com/packages/3d/vegetation/trees/realistic-tree-9-rainbow-tree-54622 
 https://assetstore.unity.com/packages/3d/environments/snowed-fence-6722 
 https://assetstore.unity.com/packages/3d/environments/landscapes/free-rocks-19288 
