@@ -1,9 +1,10 @@
 # MIXProject
 VR Zoo game developed in Unity
 
-#References:  
+References:  
 
 Animals:
+
 https://assetstore.unity.com/packages/3d/characters/animals/golden-tiger-55797
 https://assetstore.unity.com/packages/3d/characters/animals/iguana-57458 
 https://assetstore.unity.com/packages/3d/characters/animals/rhino-cartoon-63658 
@@ -19,4 +20,5 @@ https://assetstore.unity.com/packages/3d/environments/landscapes/rock-62657
 https://assetstore.unity.com/packages/3d/props/food/free-food-pack-85884 
 
 Icons:
+
 https://www.flaticon.com/
