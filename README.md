@@ -27,3 +27,7 @@ https://assetstore.unity.com/packages/3d/props/food/free-food-pack-85884
 Icons:
 
 https://www.flaticon.com/
+
+**Youtube Demo of VR Zoo:**
+
+https://youtu.be/VE7c_wLfK3Y
