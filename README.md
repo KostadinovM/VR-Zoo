@@ -1,4 +1,4 @@
-# MIXProject
+# VR Zoo
 VR Zoo game developed in Unity
 
 References:  
